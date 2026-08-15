@@ -1,6 +1,6 @@
 <div align="center">
 
-# RAGE/Elton Rahimov
+# Elton Rahimov
 
 *Self-taught. Building toward NOC / RF planning in Azerbaijani telecom.*
 
