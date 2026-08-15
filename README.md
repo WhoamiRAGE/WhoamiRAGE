@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Elton
 
-### Networking Student | Aspiring NOC / RF Engineer | CCNA in progress
+### Radio & Telecom Engineering Student · Working toward NOC / RF Planning
 
 [![CCNA](https://img.shields.io/badge/CCNA-in%20progress-0078D4?style=for-the-badge)](https://www.cisco.com/)
-[![Linux](https://img.shields.io/badge/Arch-btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![Linux](https://img.shields.io/badge/Linux-daily%20driver-black?style=for-the-badge&logo=linux&logoColor=white)](https://archlinux.org/)
 
-*Self-taught, from a village with no mentors to writing networking tools that actually work. Building toward a NOC or RF planning role at an Azerbaijani telecom operator — one packet capture at a time.*
+*No mentors, no bootcamp — just documentation, a subnet, and enough stubbornness to make things work.*
 
 </div>
 
@@ -17,10 +17,10 @@
 
 - 📡 First-year Radioengineering and Telecommunications Engineering student at BMU (Bakı Mühəndislik Universiteti)
 - 🎯 Working through CCNA, targeting NOC / RF planning roles at Azercell, Bakcell
-- 🛠️ Built [SnmPeek](https://github.com/WhoamiRAGE/SnmPeek), [NetWatch](https://github.com/WhoamiRAGE/NetWatch), and a few other tools from scratch, no mentors, just documentation and trial and error
-- 🐧 Daily-driving Arch Linux and NixOS, deep in the Niri/Wayland rabbit hole
-- 🔒 Care a lot about privacy and minimal footprint — pseudonymous by default
-- 📬 Reach me at: elturnrehimov6650@gmail.com
+- 🛠️ Built [SnmPeek](https://github.com/WhoamiRAGE/SnmPeek) and [NetWatch](https://github.com/WhoamiRAGE/NetWatch) from scratch — real networking tools, not tutorials
+- 🐧 Running Arch and NixOS side by side, deep in the Niri/Wayland setup
+- 🔒 Minimal footprint, pseudonymous by default
+- 📬 elturnrehimov6650@gmail.com
 
 ### 🛠️ Tech Stack
 
