@@ -12,7 +12,7 @@
 
 ---
 
-Second-year Radioengineering and Telecommunications Engineering student at BMU, working through CCNA, aiming for a NOC or RF planning role at an Azerbaijani telecom operator. Self-taught — no mentors, no bootcamp, just reading docs and breaking things on my own machine until they work.
+Second-year Radioengineering and Telecommunications Engineering student at BEU, working through CCNA, aiming for a NOC or RF planning role at an Azerbaijani telecom operator. Self-taught — no mentors, no bootcamp, just reading docs and breaking things on my own machine until they work.
 
 Outside of networking: Linux internals, privacy tooling, Elden Ring lore, and whatever rabbit hole Turkic history sends me down that week.
 
