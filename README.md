@@ -1,32 +1,22 @@
 <div align="center">
 
-# 👋 Hi, I'm Elton
+# rage
 
-### Radio & Telecom Engineering Student · Working toward NOC / RF Planning
+*Self-taught. Building toward NOC / RF planning in Azerbaijani telecom.*
 
-[![CCNA](https://img.shields.io/badge/CCNA-in%20progress-0078D4?style=for-the-badge)](https://www.cisco.com/)
-[![Linux](https://img.shields.io/badge/Linux-daily%20driver-black?style=for-the-badge&logo=linux&logoColor=white)](https://archlinux.org/)
-
-*No mentors, no bootcamp — just documentation, a subnet, and enough stubbornness to make things work.*
+[![CCNA](https://img.shields.io/badge/CCNA-in%20progress-blue)](https://www.cisco.com/)
+[![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![NixOS](https://img.shields.io/badge/NixOS-declarative-5277C3?logo=nixos&logoColor=white)](https://nixos.org/)
 
 </div>
 
 ---
 
-### 🚀 About Me
+Second-year Radioengineering and Telecommunications Engineering student at BMU, working through CCNA, aiming for a NOC or RF planning role at an Azerbaijani telecom operator. Self-taught — no mentors, no bootcamp, just reading docs and breaking things on my own machine until they work.
 
-- 📡 First-year Radioengineering and Telecommunications Engineering student at BMU (Bakı Mühəndislik Universiteti)
-- 🎯 Working through CCNA, targeting NOC / RF planning roles at Azercell, Bakcell
-- 🛠️ Built [SnmPeek](https://github.com/WhoamiRAGE/SnmPeek) and [NetWatch](https://github.com/WhoamiRAGE/NetWatch) from scratch — real networking tools, not tutorials
-- 🐧 Running Arch and NixOS side by side, deep in the Niri/Wayland setup
-- 🔒 Minimal footprint, pseudonymous by default
-- 📬 elturnrehimov6650@gmail.com
+Outside of networking: Linux internals, privacy tooling, Elden Ring lore, and whatever rabbit hole Turkic history sends me down that week.
 
-### 🛠️ Tech Stack
-
-![Python](https://skillicons.dev/icons?i=python,bash,linux,arch,nixos,git,vim)
-
-### 📌 Projects
+## Projects
 
 | | |
 |---|---|
@@ -36,6 +26,10 @@
 | **[rages-dotfiles](https://github.com/WhoamiRAGE/rages-dotfiles)** | Arch Linux dotfiles — niri, waybar, ghostty, starship, scripted install |
 | **[rage-nixos](https://github.com/WhoamiRAGE/rage-nixos)** | Performance-tuned NixOS config for an AMD/NVIDIA hybrid laptop |
 | **[Rage-s-fastfetch-config](https://github.com/WhoamiRAGE/Rage-s-fastfetch-config)** | Custom Fastfetch layout, one-line install |
+
+## Stack
+
+`Python` `Bash` `SNMP` `Linux (Arch / NixOS)` `Networking` `SQLite`
 
 <div align="center">
 
