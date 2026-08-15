@@ -1,22 +1,32 @@
 <div align="center">
 
-# rage
+# 👋 Hi, I'm Elton
 
-*Self-taught. Building toward NOC / RF planning in Azerbaijani telecom.*
+### Networking Student | Aspiring NOC / RF Engineer | CCNA in progress
 
-[![CCNA](https://img.shields.io/badge/CCNA-in%20progress-blue)](https://www.cisco.com/)
-[![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![NixOS](https://img.shields.io/badge/NixOS-declarative-5277C3?logo=nixos&logoColor=white)](https://nixos.org/)
+[![CCNA](https://img.shields.io/badge/CCNA-in%20progress-0078D4?style=for-the-badge)](https://www.cisco.com/)
+[![Linux](https://img.shields.io/badge/Arch-btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+
+*Self-taught, from a village with no mentors to writing networking tools that actually work. Building toward a NOC or RF planning role at an Azerbaijani telecom operator — one packet capture at a time.*
 
 </div>
 
 ---
 
-First-year Radioengineering and Telecommunications Engineering student at BMU, working through CCNA, aiming for a NOC or RF planning role at an Azerbaijani telecom operator. Self-taught — no mentors, no bootcamp, just reading docs and breaking things on my own machine until they work.
+### 🚀 About Me
 
-Outside of networking: Linux internals, privacy tooling, Elden Ring lore, and whatever rabbit hole Turkic history sends me down that week.
+- 📡 First-year Radioengineering and Telecommunications Engineering student at BMU (Bakı Mühəndislik Universiteti)
+- 🎯 Working through CCNA, targeting NOC / RF planning roles at Azercell, Bakcell
+- 🛠️ Built [SnmPeek](https://github.com/WhoamiRAGE/SnmPeek), [NetWatch](https://github.com/WhoamiRAGE/NetWatch), and a few other tools from scratch, no mentors, just documentation and trial and error
+- 🐧 Daily-driving Arch Linux and NixOS, deep in the Niri/Wayland rabbit hole
+- 🔒 Care a lot about privacy and minimal footprint — pseudonymous by default
+- 📬 Reach me at: elturnrehimov6650@gmail.com
 
-## Projects
+### 🛠️ Tech Stack
+
+![Python](https://skillicons.dev/icons?i=python,bash,linux,arch,nixos,git,vim)
+
+### 📌 Projects
 
 | | |
 |---|---|
@@ -26,10 +36,6 @@ Outside of networking: Linux internals, privacy tooling, Elden Ring lore, and wh
 | **[rages-dotfiles](https://github.com/WhoamiRAGE/rages-dotfiles)** | Arch Linux dotfiles — niri, waybar, ghostty, starship, scripted install |
 | **[rage-nixos](https://github.com/WhoamiRAGE/rage-nixos)** | Performance-tuned NixOS config for an AMD/NVIDIA hybrid laptop |
 | **[Rage-s-fastfetch-config](https://github.com/WhoamiRAGE/Rage-s-fastfetch-config)** | Custom Fastfetch layout, one-line install |
-
-## Stack
-
-`Python` `Bash` `SNMP` `Linux (Arch / NixOS)` `Networking` `SQLite`
 
 <div align="center">
 
