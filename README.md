@@ -1,6 +1,6 @@
 <div align="center">
 
-# rage
+# RAGE
 
 *Self-taught. Building toward NOC / RF planning in Azerbaijani telecom.*
 
