@@ -1,38 +1,69 @@
 <div align="center">
 
-# RAGE
+  <h1>Hey, I'm Rage 👋</h1>
+  <p><strong>Telecommunications Engineering Student & Systems Enthusiast</strong></p>
 
-*Self-taught. Building toward NOC / RF planning in Azerbaijani telecom.*
-
-[![CCNA](https://img.shields.io/badge/CCNA-in%20progress-blue)](https://www.cisco.com/)
-[![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![NixOS](https://img.shields.io/badge/NixOS-declarative-5277C3?logo=nixos&logoColor=white)](https://nixos.org/)
+  <p>
+    <a href="https://github.com/WhoamiRAGE">
+      <img src="https://img.shields.io/badge/Main_OS-Linux-violet?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+    </a>
+    <a href="https://github.com/WhoamiRAGE">
+      <img src="https://img.shields.io/badge/Hardware-ASUS_TUF_A15-purple?style=for-the-badge&logo=asus&logoColor=white" alt="Hardware"/>
+    </a>
+    <a href="https://github.com/WhoamiRAGE">
+      <img src="https://img.shields.io/badge/Shell-Bash/Zsh-8A2BE2?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
+    </a>
+  </p>
 
 </div>
 
 ---
 
-Second-year Radioengineering and Telecommunications Engineering student at BEU, working through CCNA, aiming for a NOC or RF planning role at an Azerbaijani telecom operator. Self-taught — no mentors, no bootcamp, just reading docs and breaking things on my own machine until they work.
+### 🚀 About Me
 
-Outside of networking: Linux internals, privacy tooling, Elden Ring lore, and whatever rabbit hole Turkic history sends me down that week.
+- 🎓 **Major:** Telecommunications Engineering Student
+- 🐧 **Focus:** Customizing Linux environments, Shell scripting, and System Utilities
+- 🛠️ **Current Rig:** ASUS TUF Gaming A15 (AMD Ryzen 5 7535HS + RTX 2050)
+- 🎨 **Aesthetic:** Minimalist terminal setups, symmetrical layouts & custom Fastfetch configs
 
-## Projects
+---
 
-| | |
-|---|---|
-| **[SnmPeek](https://github.com/WhoamiRAGE/SnmPeek)** | Terminal-based mini NMS — ARP/SNMP discovery, LLDP/CDP topology, SQLite persistence, live TUI |
-| **[NetWatch](https://github.com/WhoamiRAGE/NetWatch)** | Real-time network monitoring CLI — ping, bandwidth, wifi, scanning, traceroute, SNMP. On PyPI as `netwatch-cli` |
-| **[EldenSave](https://github.com/WhoamiRAGE/rages-elden-ring-save-editor)** | Elden Ring save editor (PC) — stats, runes, inventory, from the CLI or as a library |
-| **[rages-dotfiles](https://github.com/WhoamiRAGE/rages-dotfiles)** | Arch Linux dotfiles — niri, waybar, ghostty, starship, scripted install |
-| **[rage-nixos](https://github.com/WhoamiRAGE/rage-nixos)** | Performance-tuned NixOS config for an AMD/NVIDIA hybrid laptop |
-| **[Rage-s-fastfetch-config](https://github.com/WhoamiRAGE/Rage-s-fastfetch-config)** | Custom Fastfetch layout, one-line install |
+### 🛠️ Featured Projects
 
-## Stack
+| Project | Description |
+| :--- | :--- |
+| 📊 **[NetWatch](https://github.com/WhoamiRAGE/NetWatch)** | Automated network monitoring tool |
+| 🛡️ **[EldenSave](https://github.com/WhoamiRAGE/EldenSave)** | Elden Ring save file editor with CLI utility |
 
-`Python` `Bash` `SNMP` `Linux (Arch / NixOS)` `Networking` `SQLite`
+---
+
+### 💻 Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WhoamiRAGE&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoamiRAGE&layout=compact&theme=synthwave&hide_border=true" width="48%" />
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WhoamiRAGE&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhoamiRAGE&theme=synthwave&hide_border=true" width="96%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with precision & custom setup aesthetics ⚡</sub>
 </div>
