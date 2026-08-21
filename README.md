@@ -1,59 +1,29 @@
 <div align="center">
-
-  <h1>Hey, I'm Rage 👋</h1>
-  <p><strong>Telecommunications Engineering Student & Systems Enthusiast</strong></p>
-
-  <p>
-    <a href="https://github.com/WhoamiRAGE">
-      <img src="https://img.shields.io/badge/Main_OS-Linux-violet?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-    </a>
-    <a href="https://github.com/WhoamiRAGE">
-      <img src="https://img.shields.io/badge/Hardware-ASUS_TUF_A15-purple?style=for-the-badge&logo=asus&logoColor=white" alt="Hardware"/>
-    </a>
-    <a href="https://github.com/WhoamiRAGE">
-      <img src="https://img.shields.io/badge/Shell-Bash/Zsh-8A2BE2?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
-    </a>
-  </p>
-
+  <h2>R A G E</h2>
+  <p>Telecommunications Engineering • Linux Systems • CLI Utilities</p>
 </div>
 
 ---
 
-### 🚀 About Me
+### 💻 Core Projects
 
-- 🎓 **Major:** Telecommunications Engineering Student
-- 🐧 **Focus:** Customizing Linux environments, Shell scripting, and System Utilities
-- 🛠️ **Current Rig:** ASUS TUF Gaming A15 (AMD Ryzen 5 7535HS + RTX 2050)
-- 🎨 **Aesthetic:** Minimalist terminal setups, symmetrical layouts & custom Fastfetch configs
-
----
-
-### 🛠️ Projects & Repositories
-
-| Project / Config | Description |
+| Repository | Description |
 | :--- | :--- |
-| 🔍 **[snmpeek](https://github.com/WhoamiRAGE/snmpeek)** | Network / SNMP inspection & monitoring tool |
-| 📊 **[NetWatch](https://github.com/WhoamiRAGE/NetWatch)** | Automated network monitoring tool |
-| 🛡️ **[EldenSave](https://github.com/WhoamiRAGE/EldenSave)** | Elden Ring save file editor with CLI utility |
-| ⚡ **[Rage-Fastfetch](https://github.com/WhoamiRAGE/Rage-Fastfetch)** | Symmetrical and aesthetic Fastfetch system configurations |
-| ❄️ **[Rage-NixOS](https://github.com/WhoamiRAGE/Rage-NixOS)** | System configuration and dotfiles for NixOS |
-| 🪟 **[Rage-Niri-Dotfiles](https://github.com/WhoamiRAGE/Rage-Niri-Dotfiles)** | Personal desktop setup and window manager configurations |
+| **[snmpeek](https://github.com/WhoamiRAGE/snmpeek)** | Network and SNMP inspection tool |
+| **[NetWatch](https://github.com/WhoamiRAGE/NetWatch)** | Automated network monitoring utility |
+| **[EldenSave](https://github.com/WhoamiRAGE/EldenSave)** | Command-line save file editor for Elden Ring |
 
----
+<br>
 
-### 💻 Tech Stack & Tools
+### ⚙️ System & Dotfiles
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-</p>
+| Repository | Description |
+| :--- | :--- |
+| **[Rage-NixOS](https://github.com/WhoamiRAGE/Rage-NixOS)** | Declarative NixOS system configurations |
+| **[Rage-Niri-Dotfiles](https://github.com/WhoamiRAGE/Rage-Niri-Dotfiles)** | Wayland window manager setup & configs |
+| **[Rage-Fastfetch](https://github.com/WhoamiRAGE/Rage-Fastfetch)** | Symmetrical and aesthetic Fastfetch layouts |
 
----
+<br>
 
-<div align="center">
-  <sub>Designed with precision & custom setup aesthetics ⚡</sub>
-</div>
+> **Environment:** Linux • Python • Bash • ASUS TUF A15 (Ryzen 5 / RTX 2050)
+
