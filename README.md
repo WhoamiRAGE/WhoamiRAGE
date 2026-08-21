@@ -22,7 +22,7 @@ Outside of networking: Linux internals, privacy tooling, Elden Ring lore, and wh
 |---|---|
 | **[SnmPeek](https://github.com/WhoamiRAGE/SnmPeek)** | Terminal-based mini NMS — ARP/SNMP discovery, LLDP/CDP topology, SQLite persistence, live TUI |
 | **[NetWatch](https://github.com/WhoamiRAGE/NetWatch)** | Real-time network monitoring CLI — ping, bandwidth, wifi, scanning, traceroute, SNMP. On PyPI as `netwatch-cli` |
-| **[rages-elden-ring-save-editor](https://github.com/WhoamiRAGE/rages-elden-ring-save-editor)** | Elden Ring save editor (PC) — stats, runes, inventory, from the CLI or as a library |
+| **[EldenSave](https://github.com/WhoamiRAGE/rages-elden-ring-save-editor)** | Elden Ring save editor (PC) — stats, runes, inventory, from the CLI or as a library |
 | **[rages-dotfiles](https://github.com/WhoamiRAGE/rages-dotfiles)** | Arch Linux dotfiles — niri, waybar, ghostty, starship, scripted install |
 | **[rage-nixos](https://github.com/WhoamiRAGE/rage-nixos)** | Performance-tuned NixOS config for an AMD/NVIDIA hybrid laptop |
 | **[Rage-s-fastfetch-config](https://github.com/WhoamiRAGE/Rage-s-fastfetch-config)** | Custom Fastfetch layout, one-line install |
