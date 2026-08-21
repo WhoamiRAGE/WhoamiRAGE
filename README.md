@@ -28,13 +28,16 @@
 
 ---
 
-### 🛠️ Featured Projects
+### 🛠️ Projects & Repositories
 
-| Project | Description |
+| Project / Config | Description |
 | :--- | :--- |
 | 🔍 **[snmpeek](https://github.com/WhoamiRAGE/snmpeek)** | Network / SNMP inspection & monitoring tool |
 | 📊 **[NetWatch](https://github.com/WhoamiRAGE/NetWatch)** | Automated network monitoring tool |
 | 🛡️ **[EldenSave](https://github.com/WhoamiRAGE/EldenSave)** | Elden Ring save file editor with CLI utility |
+| ⚡ **[Rage-Fastfetch](https://github.com/WhoamiRAGE/Rage-Fastfetch)** | Symmetrical and aesthetic Fastfetch system configurations |
+| ❄️ **[Rage-NixOS](https://github.com/WhoamiRAGE/Rage-NixOS)** | System configuration and dotfiles for NixOS |
+| 🪟 **[Rage-Niri-Dotfiles](https://github.com/WhoamiRAGE/Rage-Niri-Dotfiles)** | Personal desktop setup and window manager configurations |
 
 ---
 
@@ -46,6 +49,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
 ---
