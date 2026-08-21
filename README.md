@@ -12,7 +12,7 @@ Current rig: ASUS TUF Gaming A15 (Ryzen 5 7535HS + RTX 2050), running Arch Linux
 
 | | |
 |---|---|
-| **[snmpeek](https://github.com/WhoamiRAGE/snmpeek)** | Network and SNMP inspection CLI |
+| **[SnmPeek](https://github.com/WhoamiRAGE/snmpeek)** | Network and SNMP inspection CLI |
 | **[NetWatch](https://github.com/WhoamiRAGE/NetWatch)** | Network monitoring CLI — on PyPI as `netwatch-cli` |
 | **[EldenSave](https://github.com/WhoamiRAGE/EldenSave)** | Elden Ring save editor |
 
@@ -20,7 +20,7 @@ Current rig: ASUS TUF Gaming A15 (Ryzen 5 7535HS + RTX 2050), running Arch Linux
 
 | | |
 |---|---|
-| **[Rage-Niri-Dotfiles](https://github.com/WhoamiRAGE/Rage-Niri-Dotfiles)** | My Niri (Wayland) config |
+| **[Rage-Niri](https://github.com/WhoamiRAGE/Rage-Niri-Dotfiles)** | My Niri (Wayland) config |
 | **[Rage-Fastfetch](https://github.com/WhoamiRAGE/Rage-Fastfetch)** | My Fastfetch layout |
 | **[Rage-NixOS](https://github.com/WhoamiRAGE/Rage-NixOS)** | My NixOS config |
 
