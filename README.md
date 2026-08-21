@@ -32,6 +32,7 @@
 
 | Project | Description |
 | :--- | :--- |
+| 🔍 **[snmpeek](https://github.com/WhoamiRAGE/snmpeek)** | Network / SNMP inspection & monitoring tool |
 | 📊 **[NetWatch](https://github.com/WhoamiRAGE/NetWatch)** | Automated network monitoring tool |
 | 🛡️ **[EldenSave](https://github.com/WhoamiRAGE/EldenSave)** | Elden Ring save file editor with CLI utility |
 
@@ -52,14 +53,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WhoamiRAGE&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoamiRAGE&layout=compact&theme=synthwave&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhoamiRAGE&theme=synthwave&hide_border=true" width="96%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WhoamiRAGE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoamiRAGE&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
