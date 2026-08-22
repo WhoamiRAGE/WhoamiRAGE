@@ -1,5 +1,5 @@
 # RAGE
-
+/home/rage/Downloads/Gemini_Generated_Image_ywvvj8ywvvj8ywvv.jpeg
 `whoami` → self-taught engineer in progress.
 
 Studying telecom engineering in Baku, working through CCNA. No mentor, no bootcamp — just docs and breaking things on my own machine until they work.
