@@ -1,5 +1,6 @@
 # RAGE
-/home/rage/Downloads/Gemini_Generated_Image_ywvvj8ywvvj8ywvv.jpeg
+<img width="2752" height="1536" alt="Gemini_Generated_Image_ywvvj8ywvvwvv" src="https://github.com/user-attachments/assets/8e5f9666-0c8c-48bc-b0d2-01d330d17784" />
+
 `whoami` → self-taught engineer in progress.
 
 Studying telecom engineering in Baku, working through CCNA. No mentor, no bootcamp — just docs and breaking things on my own machine until they work.
